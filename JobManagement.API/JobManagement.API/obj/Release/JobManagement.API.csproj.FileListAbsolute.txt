@@ -85,3 +85,4 @@ C:\Users\Victoria\source\repos\JobManagement.API\JobManagement.API\bin\Microsoft
 C:\Users\Victoria\source\repos\JobManagement.API\JobManagement.API\obj\Release\JobManagement.API.csproj.CopyComplete
 C:\Users\Victoria\source\repos\JobManagement.API\JobManagement.API\obj\Release\JobManagement.API.dll
 C:\Users\Victoria\source\repos\JobManagement.API\JobManagement.API\obj\Release\JobManagement.API.pdb
+C:\Users\Victoria\source\repos\JobManagement.API\JobManagement.API\obj\Release\JobManagement.API.csprojAssemblyReference.cache
